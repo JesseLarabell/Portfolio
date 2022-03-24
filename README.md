@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio code and finished graphs
+Portfolio python and SQL code, finished and unfinished graphs
